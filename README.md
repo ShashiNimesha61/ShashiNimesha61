@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashi nimesha</h1>
-<h3 align="center">Quality Assurance(QA)</h3>
+<h3 align="center">HNDIT Undergraduate | Passionate about Web / Software Development and QA(QA)</h3>
 
 - 🌱 I’m currently learning **laravel**
 
